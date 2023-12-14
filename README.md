@@ -27,3 +27,14 @@ Please reach out to your respective TA if you need any help in regards with subm
 Author:
 - Aditya Mulik (mulik.a@northeastern.edu)
 - Sai Akhil Vemula (vemula.v@northeastern.edu)
+
+### Specifications of Assignment
+COLLABORATIVE LAB WORK: 
+
+Implement a unique scenario where the Strategy pattern provides THREE dynamic changes of algorithm.
+
+NOTE:
+
+Strictly not exceeding 4 per team.
+
+Comment your team members' full names while submitting.
